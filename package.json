@@ -1,0 +1,15 @@
+{
+  "name": "@rahem/ju",
+  "version": "0.0.1-dev.01",
+  "main": "ju.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": {
+    "ju": "./ju.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
